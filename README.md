@@ -76,7 +76,7 @@ said, our formal tested matrix of Linux platforms includes the following:
 
 As well as the Linux platforms supported, OMI is also tested to work on the following platforms:
 
-- AIX 7.1
+- AIX 7.1 and 7.2
 - HPUX 11.31 (ia64 only)
 - Solaris 10 and 11 (Sparc and x86)
 
