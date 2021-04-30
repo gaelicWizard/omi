@@ -60,17 +60,17 @@ We support most modern Linux platforms (and some that aren't so modern). That
 said, our formal tested matrix of Linux platforms includes the following:
 
 - CentOS 6 and 7 (x86 and x64)
-- CentOS 8 (omi>=1.6.8-0)
+- CentOS 8 x64 (omi>=1.6.8-0)
 - Debian 8 (x86 and x64) and Debian 9 x64
-- Debian 10 (omi>=1.6.8-0)
+- Debian 10 x64 (omi>=1.6.8-0)
 - Oracle Linux 5, 6, and 7 (x86 and x64)
-- Oracle Linux 8 (omi>=1.6.8-0)
+- Oracle Linux 8 x64 (omi>=1.6.8-0)
 - Red Hat Enterprise Linux Server 5 and 6, and 7 (x86 and x64)
   - Note: Red Hat 7.1 or later also runs on the PPC platform
-- Red Hat Enterprise Linux Server 8 (omi>=1.6.8-0)
+- Red Hat Enterprise Linux Server 8 x64 (omi>=1.6.8-0)
 - SUSE Linux Enterprise Server 11, 12 (x86 and x64), 12 ppc and 15.
 - Ubuntu 14.04 LTS, 16.04 LTS and 18.04 LTS (x86 and x64)
-- Ubuntu 20.04 LTS (omi>=1.6.8-0)
+- Ubuntu 20.04 LTS x64 (omi>=1.6.8-0)
 
 ### Supported Unix Operating Systems
 
